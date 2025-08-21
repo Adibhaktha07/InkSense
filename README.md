@@ -34,7 +34,7 @@ inksense/
 
 ├── utils/ # Helper functions (drawing, gesture handling)
 
-├── assets/ # Brush icons, UI overlays (optional)
+├── assets/ # Brush icons, UI overlays (optional) 
 
 ├── README.md # Project description
 
