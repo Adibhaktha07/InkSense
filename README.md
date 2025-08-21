@@ -25,12 +25,19 @@
 ---
 
 ## 📂 Folder Structure
+
 inksense/
+
 │
+
 ├── inksense.py # Main application script
+
 ├── utils/ # Helper functions (drawing, gesture handling)
+
 ├── assets/ # Brush icons, UI overlays (optional)
+
 ├── README.md # Project description
+
 └── requirements.txt # Required Python packages
 
 ```
